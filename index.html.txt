@@ -1,15 +1,12 @@
-<html>
-<head>
-<title>Дщкументы</title>
-
-</head>
-<body>
-	<h1>Git уроки</h1>
-	<h1>Изменит сделал</h1>
-	<p>Каландаров Абдулло</p>
-	<p>coomit</p>
-</body>
-
-
-
-</html lang="en">
+<!DOCTYPE HTML>
+<html lang="en">
+ <head>
+  <meta charset=utf-8">
+  <title>Пример</title>
+ </head>
+ <body>
+  <h1>Git урок 2</h1>
+ <h1>Git урок 2</h1>
+  <h1>Git урок 2</h1>
+ 
+ 
